@@ -3,7 +3,7 @@ title: D:NA Design
 email: kontakt@dnadesign.dk
 description: >
   D:NA Design er dansk design.
-baseurl: ""
+baseurl: "/web"
 url: "http://dnadesign.dk" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
